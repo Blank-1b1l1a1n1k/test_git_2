@@ -1,2 +1,2 @@
-print("Prueba 2 de git")
+print("CONECTADOS A GITHUB")
 print("Modificacion 2")
